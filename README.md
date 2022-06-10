@@ -34,19 +34,13 @@ CUSTOMER DETAILS
 
 
 USER PAGE
-![userpage](https://user-images.githubusercontent.com/59926851/173032717-5c07c263-1167-469b-aaea-ab82b24e18c6.PNG)
-
+![userpage](https://user-images.githubusercontent.com/59926851/173034101-950a1723-27ed-4b19-9561-49bd69aa7a3d.PNG)
 
 REQUEST BOOK
-![request book](https://user-images.githubusercontent.com/59926851/173032758-5a47ad53-08f3-4dc5-8073-b5d2549a6a4c.PNG)
-
-
-USER HISTORY
-![userhistory](https://user-images.githubusercontent.com/59926851/173032786-ff7a64a3-bbae-4caa-b931-1b6e14fd83fb.PNG)
-
+![requestabook](https://user-images.githubusercontent.com/59926851/173034008-b29b654f-9778-483d-9fcb-3afe8399f42f.PNG)
 
 BROWSE BOOK
-![browseuser](https://user-images.githubusercontent.com/59926851/173032830-c236953d-0f6d-4bab-9403-e167b7b03b73.PNG)
+![browse](https://user-images.githubusercontent.com/59926851/173033969-62d67e65-81b4-4ea2-8d81-862dce2d19d4.PNG)
 
 
 PROFILE
