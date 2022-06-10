@@ -34,7 +34,8 @@ CUSTOMER DETAILS
 
 
 USER PAGE
-![userpage](https://user-images.githubusercontent.com/59926851/173034101-950a1723-27ed-4b19-9561-49bd69aa7a3d.PNG)
+![user page](https://user-images.githubusercontent.com/59926851/173034255-937bddee-ecbb-4623-8be7-e6595c572f89.PNG)
+
 
 REQUEST BOOK
 ![requestabook](https://user-images.githubusercontent.com/59926851/173034008-b29b654f-9778-483d-9fcb-3afe8399f42f.PNG)
@@ -44,4 +45,4 @@ BROWSE BOOK
 
 
 PROFILE
-![profile1](https://user-images.githubusercontent.com/59926851/173032898-dae0d70b-9979-4018-9723-cbee8cc41a43.PNG)
+![profile12](https://user-images.githubusercontent.com/59926851/173034405-02776c66-2664-47be-b258-c47a332dc6e8.PNG)
